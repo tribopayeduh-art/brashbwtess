@@ -1,0 +1,10 @@
+{
+  "name": "Brasah Bet",
+  "description": "Imported from GitHub: tribopayeduh-art/platanacional",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
